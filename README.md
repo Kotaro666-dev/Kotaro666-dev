@@ -12,6 +12,7 @@
 
 ## My 42 journey
 
-[![kkamashi's 42 stats](https://badge42.herokuapp.com/api/stats/kkamashi)](https://github.com/JaeSeoKim/badge42)
+[![kkamashi's 42 stats](https://badge42.vercel.app/api/v2/cl1wq1sev001109jtzsz18qsk/stats?cursusId=21&coalitionId=62)](https://github.com/JaeSeoKim/badge42)
+
 
 ---
