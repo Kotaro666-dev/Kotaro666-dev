@@ -1,15 +1,15 @@
-Hi, I am Kotaro Kamashima.
+Hi, My name is Kotaro Kamashima!
 
-I develop mobile applications with Flutter and Kotlin platforms and web applications with PHP and Next.js frameworks.
+I am from Japan, where I am currently residing. I primarily engage in mobile application development, with a strong proficiency in Android development and the Flutter framework.
+
+Feel free to take a look at my resume below if you'd like to learn more about me.
+
+https://kotaro666-dev.github.io/resume/
 
 ---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kotaro666-dev&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kotaro666-dev&layout=compact&hide=html,css,md)](https://github.com/anuraghazra/github-readme-stats)
-
-Please Visit my resume below if you want more info.
-
-https://kotaro666-dev.github.io/resume/
 
 ---
 
