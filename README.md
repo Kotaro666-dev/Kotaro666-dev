@@ -1,9 +1,17 @@
-Hi, My name is Kotaro Kamashima!
+Hi, I'm Kotaro Kamashima! 👋
 
-I am from Japan, where I am currently residing. I primarily engage in mobile application development, with a strong proficiency in Android development and the Flutter framework.
+I'm a passionate mobile developer based in Japan, specializing in Flutter/Dart and Android/Kotlin development. I focus on creating maintainable and scalable applications through cross-platform and native development.
 
-Feel free to take a look at my resume below if you'd like to learn more about me.
+I'm particularly interested in:
+• Product-driven development
+• Engineering and business strategy integration
+• Documentation-driven development
+• Social contribution through technology
+• Future career path in product management
 
+Currently working at YUMEMI Inc. as a project lead engineer, I'm involved in various projects including healthcare applications and large-scale retail apps. I'm passionate about team management, technical leadership, and creating high-quality, maintainable code.
+
+Feel free to check out my resume for more details:
 https://kotaro666-dev.github.io/resume/
 
 ---
